@@ -1,6 +1,6 @@
 <h1 align="center">Yatech API</h1>
 
-> Rest API Authentication Users
+> Rest API that provides user authentication using refresh tokens and access tokens for secure and seamless user interactions.
 
 # Tech Stack & Global Requisites
 
@@ -30,7 +30,7 @@ cd yatech-api;
 # Install NPM dependencies.
 npm install;
 
-# Edit your DotEnv file using any editor of your choice.
+# Edit or copy your DotEnv file.
 cp .env.example .env;
 
 # Configure database url to connect your localhost
