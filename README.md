@@ -33,7 +33,7 @@ npm install;
 # Edit or copy your DotEnv file.
 cp .env.example .env;
 
-# Configure database url to connect your localhost
+# Edit database url to connect your localhost
 DATABASE_URL="mysql://root:@localhost:3306/yatech"
 
 # Run the app
