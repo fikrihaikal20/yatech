@@ -4,7 +4,7 @@
 
 # Tech Stack & Global Requisites
 
-* NodeJs (>= 18.12.1)
+* Node JS (>= 18.12.1)
 * Express (>= 4.18.2)
 * JWT - Authentication
 * MySQL - Database
@@ -53,8 +53,8 @@ docker-compose up -d
 ```
 
 # Links
-- [API Documentation](https://documenter.getpostman.com/view/25266354/2s93CNMtAs)
+- [API Documentation](https://documenter.getpostman.com/view/24707420/2s9YJXaRGB)
 
 # Author
 
-👤 **Muhammad Fikri Haikal **
+👤 **Muhammad Fikri Haikal**
