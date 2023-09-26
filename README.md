@@ -22,8 +22,8 @@ git clone https://github.com/fikrihaikal20/yatech.git;
 cd yatech-api;
 ```
 
+### Without Docker
 ```bash
-# Without Docker
 
 # Note: It is assumed here that you have MySQL running in the background and that you have created the database.
 
@@ -40,8 +40,8 @@ DATABASE_URL="mysql://root:@localhost:3306/yatech"
 npm run dev;
 ```
 
+### With Docker
 ```bash
-# With Docker
 
 # Note: It is assumed here that you have Docker running in the background.
 
